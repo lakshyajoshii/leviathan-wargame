@@ -125,23 +125,10 @@ ssh leviathan2@leviathan.labs.overthewire.org -p 2223
 
 ---
 
-## How to publish this README to GitHub
-1. Create a new repo (or use an existing one).
-2. Add this `README.md` file to the repo root.
-3. Commit and push:
-   ```bash
-   git init
-   git add README.md
-   git commit -m "Leviathan walkthrough: levels 0→2"
-   git remote add origin <your-repo-url>
-   git push -u origin main
-   ```
-
----
 
 ## Acknowledgements
 - OverTheWire — for the Leviathan wargame and learning platform.
 
 ---
 
-*End of README.*
+
