@@ -349,4 +349,4 @@ qEs5Io5yM8
 
 ---
 
-*Last updated: add commit date when you commit this file to the repo.*
+*The passwords for every level can be different for each user as they change over time but the proess of finding them will be the same.*
